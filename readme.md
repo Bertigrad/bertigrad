@@ -1,4 +1,4 @@
-* 🌍  I'm based in Hamburg
+* 🌍  I'm based in Germany
 * 🖥️  See my portfolio at [Portfolio](http://memati.dev)
 * ✉️  You can contact me at [kontakt@muhammetgungoren.de](mailto:kontakt@muhammetgungoren.de)
 * 🧠  I'm learning a new etwas :D
